@@ -21,3 +21,4 @@
 
 # 第三方包
 src/github.com/*
+pkg/*
